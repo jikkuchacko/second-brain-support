@@ -1,14 +1,10 @@
 # robots.txt for Second Brain: ADHD Planner
 # https://jikkuchacko.github.io/second-brain-support/
-#
-# This site WELCOMES indexing by search engines and AI assistants.
-# The goal is to be discoverable when people ask for ADHD apps.
 
-# Default — allow all crawlers access to everything
 User-agent: *
 Allow: /
 
-# Search engines (explicit is better than implicit)
+# Search engines
 User-agent: Googlebot
 Allow: /
 
@@ -70,5 +66,6 @@ Allow: /
 User-agent: cohere-ai
 Allow: /
 
-# Sitemap
+# Sitemap and LLM index
 Sitemap: https://jikkuchacko.github.io/second-brain-support/sitemap.xml
+LLM-Index: https://jikkuchacko.github.io/second-brain-support/llms.txt
