@@ -9,6 +9,20 @@
   </url>
 
   <url>
+    <loc>https://jikkuchacko.github.io/second-brain-support/index.md</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://jikkuchacko.github.io/second-brain-support/llms.txt</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://jikkuchacko.github.io/second-brain-support/support.html</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -16,7 +30,21 @@
   </url>
 
   <url>
+    <loc>https://jikkuchacko.github.io/second-brain-support/support.md</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
     <loc>https://jikkuchacko.github.io/second-brain-support/privacy.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://jikkuchacko.github.io/second-brain-support/privacy.md</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
